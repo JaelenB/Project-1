@@ -1,0 +1,25 @@
+h1 {
+    font-family: "Comic Sans";
+    color: yellow;
+}
+
+h2 {
+    font-family: goldman;
+}
+
+h3 {
+    font-family: big shoulder;
+    color: yellow;
+}
+
+body {background-color: green;
+}
+
+h5 {
+    color: yellow;
+}
+
+img {
+    height: 300px;
+    border: 13px solid black;
+}
